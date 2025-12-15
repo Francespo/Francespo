@@ -1,9 +1,17 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francespo/Francespo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francespo/Francespo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Francespo/Francespo/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <h1 align="center">
   Hi there 👋
 </h1>
 
 <p align="center">
-  I'm Francesco, a Computer Science student at Sapienza. I am driven by solving complex problems and creating engaging interactive experiences where technology and creativity intersect.
+  I'm Francesco, a Computer Science student at Sapienza. I am driven by solving complex problems and creating engaging experiences where technology and creativity intersect.
   <br>
   Play some of the games I made below!
   <br>
@@ -15,9 +23,9 @@
   </a>
 </p>
 
----
-
-### 🛠️ My Tech Stack
+<h1 align="center">
+🛠️ My Tech Stack
+</h1>
 
 <p align="center">
   <strong>Languages:</strong><br>
@@ -35,20 +43,18 @@
   <a href="https://www.aseprite.org/"><img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge" alt="Aseprite"/></a>
 </p>
 
----
+<h1 align="center">
+🤝 Open Source Contributions
+</h1>
 
-### 🤝 Open Source Contributions
-
-I believe in the power of open source and enjoy contributing to tools I use and admire. My main focus has been:
+<p align="center">
+I believe in the power of open source and enjoy contributing to tools I use and admire.
+</p>
 
 <p align="center">
   <a href="https://github.com/PixiEditor/PixiEditor">
-    <img src="https://raw.githubusercontent.com/PixiEditor/PixiEditor/master/.github/assets/pixieditor_logo.png" width="80px" alt="PixiEditor Logo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PixiEditor&repo=PixiEditor&theme=dracula&show_owner=true" alt="PixiEditor Repository Card"/>
   </a>
-  <br>
-  <strong>PixiEditor</strong>
-  <br>
-  <em>A lightweight, open-source pixel art editor made with .NET</em>
   <br>
   <br>
   <a href="https://github.com/PixiEditor/PixiEditor/pulls?q=is%3Apr+author%3AFrancespo">
@@ -56,11 +62,14 @@ I believe in the power of open source and enjoy contributing to tools I use and 
   </a>
 </p>
 
----
+<h1 align="center">
+📫 Let's Connect!
+</h1>
 
-### 📫 Let's Connect!
-
-Feel free to reach out. I'm always open to new opportunities and interesting discussions.
-
-- **LinkedIn:** [linkedin.com/in/franc3spo](http://www.linkedin.com/in/franc3spo)
-- **X (Twitter):** [@francespo_dev](https://twitter.com/francespo_dev)
+<p align="center">
+  Feel free to reach out. I'm always open to new opportunities and interesting discussions.
+  <br>
+  <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/franc3spo">linkedin.com/in/franc3spo</a>
+  <br>
+  <strong>X (Twitter):</strong> <a href="https://twitter.com/francespo_dev">@francespo_dev</a>
+</p>

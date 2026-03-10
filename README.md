@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  I'm Francesco, a Computer Science student at Sapienza. I am driven by solving complex problems and creating engaging experiences where technology and creativity intersect.
+  I'm Francesco, a Computer Science student at Sapienza. I enjoy solving complex problems and exploring the intersection between technology and creativity.
   <br>
   Play some of the games I made below!
   <br>
@@ -67,7 +67,7 @@ I believe in the power of open source and enjoy contributing to tools I use and 
 </h1>
 
 <p align="center">
-  Feel free to reach out. I'm always open to new opportunities and interesting discussions.
+  Feel free to reach out!
   <br>
   <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/franc3spo">linkedin.com/in/franc3spo</a>
   <br>

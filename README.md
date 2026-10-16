@@ -69,7 +69,7 @@ I believe in the power of open source and enjoy contributing to tools I use and 
 <p align="center">
   Feel free to reach out!
   <br>
-  <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/franc3spo">linkedin.com/in/franc3spo</a>
+  <strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/francespo14">linkedin.com/in/francespo14</a>
   <br>
   <strong>X (Twitter):</strong> <a href="https://twitter.com/francespo_dev">@francespo_dev</a>
 </p>

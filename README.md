@@ -48,10 +48,6 @@
 </h1>
 
 <p align="center">
-I believe in the power of open source and enjoy contributing to tools I use and admire.
-</p>
-
-<p align="center">
   <a href="https://github.com/PixiEditor/PixiEditor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PixiEditor&repo=PixiEditor&theme=dracula&show_owner=true" alt="PixiEditor Repository Card"/>
   </a>
